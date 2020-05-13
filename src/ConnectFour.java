@@ -21,7 +21,7 @@ public class ConnectFour extends JFrame implements ActionListener {
      */
     private Array gameBoard;
     /**
-     *
+     * Buttons for user input
      */
     private JButton[][] GUIBoard;
     /**
